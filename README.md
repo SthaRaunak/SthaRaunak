@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full stack Development
 - 🌱 I’m currently learning MERN stack and Web Design.
 - 💞️ I’m looking to collaborate on web projects.
-- 📫 Reach me here
+- 📫 Reach me here s.raunak2006@gmail.com
 
 <!---
 SthaRaunak/SthaRaunak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
