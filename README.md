@@ -1,19 +1,35 @@
-# 💫 About Me:
-👋 Hi, I’m @SthaRaunak<br>👀 I’m interested in Full stack Development<br>🌱 I’m currently learning MERN stack and Web Design.<br>💞️ I’m looking to collaborate on web projects.<br>📫 Reach me here s.raunak2006@gmail.com
+Hi 👋 My name is Raunak Shrestha
+================================
 
+CS Student
+----------
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SthaRaunak&theme=monokai&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SthaRaunak&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SthaRaunak&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+* 🌍  I'm based in Kathmandu, Nepal
+* ✉️  You can contact me at [s.raunak2006@gmail.com](mailto:s.raunak2006@gmail.com)
+* 🧠  I'm learning MERN Stack and Web Design
+* 🤝  I'm open to collaborating on MERN stack projects
 
+### Skills
 
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=SthaRaunak&icon=0&color=9)](https://visitcount.itsvg.in)
+### Socials
 
+<p align="left"> <a href="https://www.github.com/SthaRaunak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+### Badges
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/SthaRaunak"><img src="https://github-readme-stats.vercel.app/api?username=SthaRaunak&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=3382ed&icon_color=f97316&bg_color=ffffff&hide_border=true&show_icons=true" alt="SthaRaunak's GitHub stats" /></a>
+
+<a href="https://github.com/SthaRaunak" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SthaRaunak&langs_count=10&title_color=0f172a&text_color=3382ed&icon_color=f97316&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
