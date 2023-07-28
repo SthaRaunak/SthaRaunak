@@ -1,10 +1,7 @@
 Hi 👋 My name is Raunak Shrestha
 ================================
-
 CS student
-----------
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
+================================
 
 * 🌍  I'm based in Kathmandu, Nepal
 * ✉️  You can contact me at [s.raunak2006@gmail.com](mailto:s.raunak2006@gmail.com)
