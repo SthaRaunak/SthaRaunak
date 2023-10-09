@@ -1,1 +1,1 @@
-![image](https://github.com/SthaRaunak/SthaRaunak/assets/134532133/cb27c21c-2334-4a91-b91d-75933fdfa1aa)
+![github-header-image](https://github.com/SthaRaunak/SthaRaunak/assets/134532133/35515cc3-91fb-44d9-b0be-a063520e5751)
